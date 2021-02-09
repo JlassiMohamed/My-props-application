@@ -1,0 +1,19 @@
+.Product {
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.TitleProduct {
+  color: #2d4722;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  font-size: 1em;
+}
+.Btn {
+  color: #0099cc;
+  background: transparent;
+  border: 1px solid #0099cc;
+  border-radius: 6px;
+}
+.Btn:hover {      background-color: #008CBA;      color: white; }
